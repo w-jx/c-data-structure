@@ -1,2 +1,4 @@
 D:\OneDrive - smail.nju.edu.cn\codingProject\vs2019\DataAndStructure\数据结构\Debug\数据结构整理与复习.exe
 D:\OneDrive - smail.nju.edu.cn\codingProject\vs2019\DataAndStructure\数据结构\Debug\数据结构整理与复习.pdb
+D:\OneDrive - smail.nju.edu.cn\codingProject\vs2019\c-data-structure\数据结构\Debug\数据结构整理与复习.exe
+D:\OneDrive - smail.nju.edu.cn\codingProject\vs2019\c-data-structure\数据结构\Debug\数据结构整理与复习.pdb

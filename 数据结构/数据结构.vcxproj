@@ -140,7 +140,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="插入排序.cpp" />
+    <ClCompile Include="排序\希尔排序.cpp" />
+    <ClCompile Include="排序\插入排序.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="myhead.h" />

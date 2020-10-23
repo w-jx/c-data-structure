@@ -1,4 +1,2 @@
-﻿  插入排序.cpp
-D:\OneDrive - smail.nju.edu.cn\codingProject\vs2019\DataAndStructure\数据结构\插入排序.cpp(17,21): warning C4018: “<”: 有符号/无符号不匹配
-D:\OneDrive - smail.nju.edu.cn\codingProject\vs2019\DataAndStructure\数据结构\插入排序.cpp(38): message : 查看对正在编译的函数 模板 实例化“void insert_sort<int>(std::vector<int,std::allocator<int>> &)”的引用
-  数据结构.vcxproj -> D:\OneDrive - smail.nju.edu.cn\codingProject\vs2019\DataAndStructure\数据结构\Debug\数据结构整理与复习.exe
+﻿  希尔排序.cpp
+  数据结构.vcxproj -> D:\OneDrive - smail.nju.edu.cn\codingProject\vs2019\c-data-structure\数据结构\Debug\数据结构整理与复习.exe

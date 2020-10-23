@@ -14,11 +14,14 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="源文件\排序">
-      <UniqueIdentifier>{46885787-da77-41f8-863c-8cc53b0be2d7}</UniqueIdentifier>
+      <UniqueIdentifier>{1c1a94cb-714a-40c7-a4bd-dd3facd59db4}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="插入排序.cpp">
+    <ClCompile Include="排序\插入排序.cpp">
+      <Filter>源文件\排序</Filter>
+    </ClCompile>
+    <ClCompile Include="排序\希尔排序.cpp">
       <Filter>源文件\排序</Filter>
     </ClCompile>
   </ItemGroup>
