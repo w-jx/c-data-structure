@@ -24,7 +24,7 @@
     <ProjectGuid>{085f84aa-e495-468e-a72c-9518fe1fe134}</ProjectGuid>
     <RootNamespace>数据结构</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>数据结构整理与复习</ProjectName>
+    <ProjectName>数据结构c++语言描述</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -89,6 +89,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -140,11 +141,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="排序\二分查找.cpp" />
     <ClCompile Include="排序\希尔排序.cpp" />
+    <ClCompile Include="排序\归并排序合并两个有序数组.cpp" />
     <ClCompile Include="排序\插入排序.cpp" />
+    <ClCompile Include="链表\单链表.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="myhead.h" />
+    <ClInclude Include="头文件\LinkedList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

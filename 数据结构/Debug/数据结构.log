@@ -1,2 +1,4 @@
-﻿  希尔排序.cpp
-  数据结构.vcxproj -> D:\OneDrive - smail.nju.edu.cn\codingProject\vs2019\c-data-structure\数据结构\Debug\数据结构整理与复习.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(数据结构整理与复习.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  二分查找.cpp
+D:\OneDrive - smail.nju.edu.cn\codingProject\vs2019\c-data-structure\数据结构\排序\二分查找.cpp(41): warning C4715: “binary_search”: 不是所有的控件路径都返回值
+  数据结构.vcxproj -> D:\OneDrive - smail.nju.edu.cn\codingProject\vs2019\c-data-structure\数据结构\Debug\数据结构c++语言描述.exe
