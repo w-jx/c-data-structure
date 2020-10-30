@@ -143,7 +143,7 @@
   <ItemGroup>
     <ClCompile Include="排序\二分查找.cpp" />
     <ClCompile Include="排序\希尔排序.cpp" />
-    <ClCompile Include="排序\归并排序合并两个有序数组.cpp" />
+    <ClCompile Include="排序\合并两个有序数组.cpp" />
     <ClCompile Include="排序\插入排序.cpp" />
     <ClCompile Include="链表\单链表.cpp" />
   </ItemGroup>

@@ -33,7 +33,7 @@
     <ClCompile Include="排序\二分查找.cpp">
       <Filter>源文件\排序</Filter>
     </ClCompile>
-    <ClCompile Include="排序\归并排序合并两个有序数组.cpp">
+    <ClCompile Include="排序\合并两个有序数组.cpp">
       <Filter>源文件\排序</Filter>
     </ClCompile>
   </ItemGroup>
